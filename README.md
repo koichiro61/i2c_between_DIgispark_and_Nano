@@ -1,4 +1,4 @@
-# i2c_between_DIgispark_and_Nano
+# i2c_between_Digispark_and_Nano
 
 Since USB serial is not available when PB3 and/or PB4 are connected to devices,
 you cannot debug sketches by checking values of variables in the sketch with serial monitor
