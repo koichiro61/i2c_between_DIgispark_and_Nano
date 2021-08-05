@@ -1,6 +1,6 @@
 # i2c_between_Digispark_and_Nano
 
-Since USB serial is not available when PB3 and/or PB4 are connected to devices,
+Since USB serial is not available on Digispark when PB3 and/or PB4 are connected to devices,
 you cannot debug sketches by checking values of variables in the sketch with serial monitor
 on your PC in this case.
 The sketches in this repositry realizes i2c connection between Digispark and Arduino
