@@ -6,3 +6,7 @@ on your PC in this case.
 The sketches in this repositry realizes i2c connection between Digispark and Arduino
 so that values of variables or state of pins can be seen from Arduino and be displayed on serial monitor
 on your PC via USB serial connection betweeb Arduino and the PC.
+
+These codes are partial modification and porting to Nano based on the ones published
+at https://github.com/lucullusTheOnly/TinyWire .
+Many thanks to the author.
